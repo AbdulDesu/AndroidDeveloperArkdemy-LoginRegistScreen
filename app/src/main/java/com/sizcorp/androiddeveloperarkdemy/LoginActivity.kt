@@ -16,5 +16,9 @@ class LoginActivity : AppCompatActivity() {
             startActivity(intent)
             finish()
         }
+
+        btLogin.setOnClickListener {
+            // FireBase Auth Login Here
+        }
     }
 }
