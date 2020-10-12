@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "717894024467",
+    "firebase_url": "https://arkademy-membership.firebaseio.com",
+    "project_id": "arkademy-membership",
+    "storage_bucket": "arkademy-membership.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717894024467:android:92f9eb5fb1c31600a6eee6",
+        "android_client_info": {
+          "package_name": "com.sizcorp.androiddeveloperarkdemy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717894024467-1dtt5g5qbr27closh8m1m7k386adnvft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqrHhL7Vu1CWJYnXHiiqxcueUejGuEcyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717894024467-1dtt5g5qbr27closh8m1m7k386adnvft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
