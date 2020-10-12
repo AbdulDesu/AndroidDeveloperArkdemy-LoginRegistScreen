@@ -6,4 +6,6 @@ https://drive.google.com/file/d/19zHnf3FMI5EHFBmachpiRDn4xvZk2KvI/view?usp=shari
 -Register Screen(Bonus):<br>
 https://drive.google.com/file/d/1GROzWWsIwjG6wNWOhrs-F2UuuCn2QKq_/view?usp=sharing<br> 
 
-<img src="https://user-images.githubusercontent.com/49888665/95183817-b3802f80-07f0-11eb-88d0-1e69a91039c3.gif" width="150">
+<img src="https://user-images.githubusercontent.com/49888665/95183817-b3802f80-07f0-11eb-88d0-1e69a91039c3.gif" width="150"> <br>
+
+Check Branch Terbaru untuk hasil final<br>
